@@ -37,7 +37,4 @@
 
 # Now work with
 [![Мой проект](https://github-stats-extended.vercel.app/api/pin?username=Karasichek&theme_light=light_github&theme_dark=dark_github&repo=tgxiki)](https://github.com/Karasichek/Tgxiki)
-
-и
-
 [![Мой проект](https://github-stats-extended.vercel.app/api/pin?username=Karasichek&theme_light=light_github&theme_dark=dark_github&repo=filament)](https://github.com/Karasichek/filament)
