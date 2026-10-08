@@ -36,7 +36,8 @@
 <img src="./assets/internet.png" width="17" alt="Internet activity" /> **Active:** Rarely
 
 # Now work with
-<p align="center">
-  <a href="https://github.com/Karasichek/Tgxiki"><img src="https://github-stats-extended.vercel.app/api/pin?username=Karasichek&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;repo=tgxiki" width="49%" alt="tgxiki"></a>
-  <a href="https://github.com/Karasichek/filament"><img src="https://github-stats-extended.vercel.app/api/pin?username=Karasichek&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;repo=filament" width="49%" alt="filament"></a>
-</p>
+[![Мой проект](https://github-stats-extended.vercel.app/api/pin?username=Karasichek&theme_light=light_github&theme_dark=dark_github&repo=tgxiki)](https://github.com/Karasichek/Tgxiki)
+
+и
+
+[![Мой проект](https://github-stats-extended.vercel.app/api/pin?username=Karasichek&theme_light=light_github&theme_dark=dark_github&repo=filament)](https://github.com/Karasichek/filament)
