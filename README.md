@@ -10,12 +10,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,git,kotlin,lua&theme=dark" alt="Kotlin, Lua, JavaScript">
+    <img src="https://skillicons.dev/icons?i=js,ts,git,bash,kotlin&theme=dark" alt="Skills1">
   </a>
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,supabase,godot,linux&theme=dark&perline=4" alt="Kotlin, Lua, JavaScript, Godot, Git">
+    <img src="https://skillicons.dev/icons?i=cloudflare,supabase,godot,linux,lua&theme=dark" alt="Skills2">
   </a>
 </p>
 
@@ -37,6 +37,6 @@
 
 # Now work with
 <p align="center">
-  <a href="https://github.com/Karasichek/Tgxiki"><img src="https://github-stats-extended.vercel.app/api/pin?username=Karasichek&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;repo=tgxiki" width="48%" alt="tgxiki"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Karasichek/filament"><img src="https://github-stats-extended.vercel.app/api/pin?username=Karasichek&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;repo=filament" width="48%" alt="filament"></a>
+  <a href="https://github.com/Karasichek/Tgxiki"><img src="https://github-stats-extended.vercel.app/api/pin?username=Karasichek&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;repo=tgxiki" width="49%" alt="tgxiki"></a>
+  <a href="https://github.com/Karasichek/filament"><img src="https://github-stats-extended.vercel.app/api/pin?username=Karasichek&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;repo=filament" width="49%" alt="filament"></a>
 </p>
