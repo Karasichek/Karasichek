@@ -27,9 +27,9 @@
 
 ### About me
 
-<img src="./assets/Skills.png" width="17" alt="Skills" /> **Skills:** Kotlin, Lua, JavaScript
+<img src="./assets/Skills.png" width="17" alt="Skills" /> **Whoami:** Idk
 
-<img src="./assets/Age.png" width="17" alt="Age" /> **Age:** 16
+<img src="./assets/Age.png" width="17" alt="Age" /> **Age:** Enough for you
 
 <img src="./assets/palette.png" width="17" alt="Color palette" /> **Color:** Orange, Purple
 
