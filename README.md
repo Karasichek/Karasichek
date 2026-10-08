@@ -8,15 +8,31 @@
 
 ### Stack
 
-- <img src="./assets/Arrow_Right.png" width="10" alt="→" /> Backend developer
-- <img src="./assets/Arrow_Right.png" width="10" alt="→" /> DX developer
-- <img src="./assets/Arrow_Right.png" width="10" alt="→" /> Game-dev
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,git,kotlin,lua&theme=dark" alt="Kotlin, Lua, JavaScript">
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cloudflare,supabase,godot,linux&theme=dark&perline=4" alt="Kotlin, Lua, JavaScript, Godot, Git">
+  </a>
+</p>
+
+<img src="./assets/Arrow_Right.png" width="10" alt="→" /> Backend developer
+
+<img src="./assets/Arrow_Right.png" width="10" alt="→" /> DX developer
+
+<img src="./assets/Arrow_Right.png" width="10" alt="→" /> Game-dev
 
 ### About me
 
-- <img src="./assets/Skills.png" width="17" alt="Skills" /> **Skills:** Kotlin, Lua, JavaScript
-- <img src="./assets/Age.png" width="17" alt="Age" /> **Age:** 16
-- <img src="./assets/palette.png" width="17" alt="Color palette" /> **Color:** Orange, Purple
-- <img src="./assets/internet.png" width="17" alt="Internet activity" /> **Active:** Rarely
+<img src="./assets/Skills.png" width="17" alt="Skills" /> **Skills:** Kotlin, Lua, JavaScript
+
+<img src="./assets/Age.png" width="17" alt="Age" /> **Age:** 16
+
+<img src="./assets/palette.png" width="17" alt="Color palette" /> **Color:** Orange, Purple
+
+<img src="./assets/internet.png" width="17" alt="Internet activity" /> **Active:** Rarely
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karasichek&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
