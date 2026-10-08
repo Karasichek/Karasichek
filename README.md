@@ -35,4 +35,8 @@
 
 <img src="./assets/internet.png" width="17" alt="Internet activity" /> **Active:** Rarely
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Karasichek&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+# Now work with
+<p align="center">
+  <a href="https://github.com/Karasichek/Tgxiki"><img src="https://github-stats-extended.vercel.app/api/pin?username=Karasichek&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;repo=tgxiki" width="48%" alt="tgxiki"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Karasichek/filament"><img src="https://github-stats-extended.vercel.app/api/pin?username=Karasichek&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;repo=filament" width="48%" alt="filament"></a>
+</p>
