@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "login": "karasichek",
+  "seed": "#FD6B2A",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "projects",
+    "stack",
+    "wave",
+    "buttons",
+    "about",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "about",
+    "stats",
+    "streak",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "Hello! I'm",
+    "name": "",
+    "subtitle": "Backend and DX developer. Hello from Russia!",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": []
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Mainly",
+        "items": [
+          {
+            "icon": "arrow_forward",
+            "label": "Language:"
+          },
+          {
+            "icon": "brand:lua",
+            "label": "Lua"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "arrow_forward",
+            "label": "Libraries"
+          },
+          {
+            "icon": "brand:ktor",
+            "label": "Ktor"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:godotengine",
+            "label": "Godot"
+          }
+        ]
+      },
+      {
+        "title": "Infrastructure",
+        "items": [
+          {
+            "icon": "brand:cloudflare",
+            "label": "Cloudflare"
+          },
+          {
+            "icon": "brand:supabase",
+            "label": "Supabase"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Android"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "cromite",
+      "termux-nightly",
+      "tgxiki",
+      "struct"
+    ],
+    "overrides": {
+      "Karasichek": {
+        "text": ""
+      },
+      "cromite": {
+        "text": "Cromite enhanced, with better UI and UX",
+        "icon": "brand:chromewebstore"
+      },
+      "termux-nightly": {
+        "text": "Termux fork with more styling and functionality",
+        "icon": "terminal_2"
+      },
+      "tgxiki": {
+        "text": "A telegram bot library on tgxiki.js"
+      }
+    },
+    "empty": "No description yet :/",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/KarasichekMC"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/karasichekMC"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/KarasichekMC"
+      },
+      {
+        "icon": "brand:kofi",
+        "url": "https://ko-fi.com/karasichek"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true
+  },
+  "buttons": {
+    "items": [],
+    "card": false
+  }
+}
