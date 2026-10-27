@@ -1,8 +1,8 @@
 {
- "key": "2629e471",
- "stars": 6,
- "contributions": 28,
- "repos": 10,
+ "key": "7711c1f1",
+ "stars": 5,
+ "contributions": 25,
+ "repos": 8,
  "followers": 0,
  "languages": [
   [
@@ -12,10 +12,6 @@
   [
    "Python",
    46984
-  ],
-  [
-   "Go",
-   12069
   ],
   [
    "Just",
@@ -75,7 +71,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 4,
     "day": 19,
     "today": false
    },
@@ -134,6 +130,24 @@
  "pins": [],
  "all": [
   {
+   "name": "FastNoise",
+   "url": "https://github.com/Karasichek/FastNoise",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "lithium",
+   "url": "https://github.com/Karasichek/lithium",
+   "text": "A Minecraft mod designed to improve the general performance of the game, without compromising functionality or mod compatibility",
+   "fork": true,
+   "stars": 1,
+   "language": "Java",
+   "topics": []
+  },
+  {
    "name": "cromite",
    "url": "https://github.com/Karasichek/cromite",
    "text": "Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!",
@@ -149,15 +163,6 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "note",
-   "url": "https://github.com/Karasichek/note",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": null,
    "topics": []
   },
   {
@@ -188,15 +193,6 @@
    "topics": []
   },
   {
-   "name": "filament",
-   "url": "https://github.com/Karasichek/filament",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Go",
-   "topics": []
-  },
-  {
    "name": "Karasichek",
    "url": "https://github.com/Karasichek/Karasichek",
    "text": "Config files for my GitHub profile.",
@@ -207,24 +203,6 @@
     "config",
     "github-config"
    ]
-  },
-  {
-   "name": "FastNoise",
-   "url": "https://github.com/Karasichek/FastNoise",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Java",
-   "topics": []
-  },
-  {
-   "name": "lithium",
-   "url": "https://github.com/Karasichek/lithium",
-   "text": "A Minecraft mod designed to improve the general performance of the game, without compromising functionality or mod compatibility",
-   "fork": true,
-   "stars": 0,
-   "language": "Java",
-   "topics": []
   }
  ]
 }
