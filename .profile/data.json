@@ -1,5 +1,5 @@
 {
- "key": "7711c1f1",
+ "key": "ba1d2171",
  "stars": 5,
  "contributions": 25,
  "repos": 8,
@@ -115,16 +115,20 @@
    {
     "c": 0,
     "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 2
  },
  "pins": [],
