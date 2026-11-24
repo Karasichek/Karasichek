@@ -1,29 +1,21 @@
 {
- "key": "6df57376",
- "stars": 5,
- "contributions": 25,
- "repos": 8,
+ "key": "16a00c0e",
+ "stars": 3,
+ "contributions": 40,
+ "repos": 16,
  "followers": 0,
  "languages": [
   [
-   "Java",
-   277780
-  ],
-  [
    "Python",
-   46984
+   52870
   ],
   [
-   "Just",
-   7876
+   "Scheme",
+   3349
   ],
   [
-   "C",
-   3932
-  ],
-  [
-   "Nim",
-   1368
+   "Go Template",
+   2896
   ]
  ],
  "days": [
@@ -108,12 +100,12 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 4,
     "day": 23,
     "today": false
    },
    {
-    "c": 0,
+    "c": 17,
     "day": 24,
     "today": true
    },
@@ -124,29 +116,11 @@
   ]
  ],
  "streak": {
-  "current": 0,
+  "current": 2,
   "longest": 2
  },
  "pins": [],
  "all": [
-  {
-   "name": "FastNoise",
-   "url": "https://github.com/Karasichek/FastNoise",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Java",
-   "topics": []
-  },
-  {
-   "name": "lithium",
-   "url": "https://github.com/Karasichek/lithium",
-   "text": "A Minecraft mod designed to improve the general performance of the game, without compromising functionality or mod compatibility",
-   "fork": true,
-   "stars": 1,
-   "language": "Java",
-   "topics": []
-  },
   {
    "name": "cromite",
    "url": "https://github.com/Karasichek/cromite",
@@ -154,15 +128,6 @@
    "fork": true,
    "stars": 1,
    "language": "C++",
-   "topics": []
-  },
-  {
-   "name": "data-provider-plugin",
-   "url": "https://github.com/Karasichek/data-provider-plugin",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "Python",
    "topics": []
   },
   {
@@ -203,6 +168,105 @@
     "config",
     "github-config"
    ]
+  },
+  {
+   "name": "termux-fastest-repo",
+   "url": "https://github.com/Karasichek/termux-fastest-repo",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "start-xfce4",
+   "url": "https://github.com/Karasichek/start-xfce4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "fs",
+   "url": "https://github.com/Karasichek/fs",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "exteragram-bridge",
+   "url": "https://github.com/Karasichek/exteragram-bridge",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "bedrock-wrapper",
+   "url": "https://github.com/Karasichek/bedrock-wrapper",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "termux-tools",
+   "url": "https://github.com/Karasichek/termux-tools",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dataset-lua",
+   "url": "https://github.com/Karasichek/dataset-lua",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "telegram-harness",
+   "url": "https://github.com/Karasichek/telegram-harness",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "rgm",
+   "url": "https://github.com/Karasichek/rgm",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "glowberry",
+   "url": "https://github.com/Karasichek/glowberry",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "dotfiles",
+   "url": "https://github.com/Karasichek/dotfiles",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
   }
  ]
 }
