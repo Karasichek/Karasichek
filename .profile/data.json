@@ -1,8 +1,8 @@
 {
- "key": "accbe72c",
+ "key": "eb103c85",
  "stars": 3,
- "contributions": 47,
- "repos": 17,
+ "contributions": 49,
+ "repos": 18,
  "followers": 0,
  "languages": [
   [
@@ -129,7 +129,7 @@
     "today": false
    },
    {
-    "c": 7,
+    "c": 9,
     "day": 28,
     "today": true
    }
@@ -188,6 +188,15 @@
     "config",
     "github-config"
    ]
+  },
+  {
+   "name": "cl0udly-mobile",
+   "url": "https://github.com/Karasichek/cl0udly-mobile",
+   "text": "OpenCode on Android: a full OpenCode server running inside the phone. Skills, GitHub, phone tools. Unofficial client, beta.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
   },
   {
    "name": "file-manager",
